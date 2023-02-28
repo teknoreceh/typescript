@@ -1,0 +1,2 @@
+# typescript
+Nyobain doang hehe
